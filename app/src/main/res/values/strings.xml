@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EnBuenasManos</string>
+    <string name="error">Email incorrecto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">En Buenas Manos</string>
+    <string name="Comunidad">Comunidad</string>
+    <string name="Consejos">Consejos</string>
+    <string name="perfil_cuidador">Mi perfil</string>
+    <string name="profesionales">Ayuda Profesional</string>
+</resources>

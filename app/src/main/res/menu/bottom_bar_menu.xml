@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itComunidad"
+        android:icon="@drawable/ic_list_24"
+        android:title="Comunidad" />
+    <item
+        android:id="@+id/itConsejos"
+        android:icon="@drawable/ic_favorite_24"
+        android:title="Consejos" />
+    <item
+        android:id="@+id/itPerfil"
+        android:icon="@drawable/ic_exit_to_app_24"
+        android:title="Mi perfil" />
+    <item
+        android:id="@+id/itAyudaProfesional"
+        android:title="Ayuda Profesional" />
+</menu>
